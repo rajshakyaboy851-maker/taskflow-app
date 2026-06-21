@@ -1,8 +1,58 @@
-# React + Vite
+# 🚀 TaskFlow - Smart Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TaskFlow is a modern React-based Todo Application designed to manage daily tasks efficiently with a clean and responsive UI.
 
-Currently, two official plugins are available:
+## 🌐 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://taskflow-app-seven-eta.vercel.app/
+
+## 📂 GitHub Repository
+
+https://github.com/rajshakyaboy851-maker/taskflow-app
+
+## ✨ Features
+
+* ✅ Add Task
+* 📝 Edit Task
+* 🗑 Delete Task
+* ✔ Mark Task as Completed
+* 🔍 Search Tasks
+* 🌙 Dark Mode
+* 📊 Task Counter
+* 💾 Local Storage Support
+* ☁️ GitHub + Vercel Deployment
+* 📱 Responsive Design
+
+## 🛠 Tech Stack
+
+* React.js
+* JavaScript
+* CSS
+* Bootstrap
+* Vite
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/rajshakyaboy851-maker/taskflow-app.git
+
+cd taskflow-app
+
+npm install
+
+npm run dev
+```
+
+## 📌 Future Improvements
+
+* 🔴🟡🟢 Priority Levels
+* 📅 Due Date Warning
+* 📈 Progress Bar
+* 🏷 Category Tags
+* 🎨 Professional Card UI
+
+## 👨‍💻 Developer
+
+ Raj Shakya
+
+Made with ❤️ using React
